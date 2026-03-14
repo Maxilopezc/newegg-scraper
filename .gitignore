@@ -1,0 +1,10 @@
+# Ignorar datos y logs
+output/
+log/
+*.json
+*.log
+
+# Entornos virtuales y caché de Python
+__pycache__/
+.venv/
+venv/
