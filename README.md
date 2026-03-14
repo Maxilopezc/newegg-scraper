@@ -16,4 +16,4 @@ Este proyecto es una demostración técnica de automatización web utilizando **
 * **Registro de Eventos (Logging):** Implementación de un sistema de logging dual (consola y archivo dinámico con timestamps) para monitoreo de procesos.
 
 ## Uso
-Este código se proporciona únicamente para análisis y revisión de código. No se brindan instrucciones de despliegue para evitar su uso masivo.
+Este código se proporciona únicamente para análisis y revisión de código. No se brindan instrucciones de despliegue para evitar su uso masivo. El archivo .json de ejemplo es de un scrapeo corto ya que el scrapeo completo llevaria demasiado tiempo.
