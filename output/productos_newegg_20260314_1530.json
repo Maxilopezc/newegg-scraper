@@ -1,0 +1,58 @@
+[
+{
+    "titulo": "FUJIFILM 26230010 400/800GB LTO Ultrium 3 Tape Media 1 Pack",
+    "precio": "$9.99",
+    "descripcion": "400/800GB\n1 Pack",
+    "imagen": "https://c1.neweggimages.com/productimage/nb640/40-999-119-01.jpg",
+    "url": "https://www.newegg.com/fujifilm-26230010-lto-ultrium-3/p/N82E16840999119"
+},
+{
+    "titulo": "WD Black 5TB P10 Game Drive Portable External Hard Drive for PS5/PS4/Xbox One/PC/Mac USB 3.2 (WDBA3A0050BBK-WESN)",
+    "precio": "$149.99",
+    "descripcion": "Enhanced gaming storage capacity of up to 5TB, accommodating over 125 games, ensuring ample space for both cherished classics and latest releases\nPortable form factor with sleek metal top covering that provides fast access to your growing game storage\nSpeeds up to 140MB/s (2TB model) to push your console or PC to new levels\nCompatible with Xbox Series X|S (play and store Xbox One games / archive Xbox Series X|S games) and PlayStation 5 (play and store PS4 games/archive PS5 games) consoles\nPremium HDD with 3-year limited warranty, purpose-built for gamers based on WD_BLACK quality and reliability",
+    "imagen": "https://c1.neweggimages.com/productimage/nb640/22-234-385-S04.jpg",
+    "url": "https://www.newegg.com/model-wdba3a0050bbk-wesn-5tb/p/N82E16822234385"
+},
+{
+    "titulo": "AMD Ryzen 7 9800X3D - Ryzen 7 9000 Series Zen 5 8-Core 5.2 GHz - Socket AM5 120W - AMD Radeon Graphics Desktop Processor - 100-100001084WOF",
+    "precio": "$469.00",
+    "descripcion": "CES 2025 Innovation Award Honoree: Recognized in the Computer Hardware & Components category for exceptional design and engineering\nHarness the ultimate gaming edge with AMD Ryzen 7 9800X3D, Unlock faster gaming with 2nd-gen AMD 3D V-Cache tech for low latency\n8 Cores and 16 processing threads, based on AMD \"Zen 5\" architecture\n5.2 GHz Max Boost, unlocked for overclocking, 96MB L3 Cache, 8MB L2 Cache, DDR5-5600 support\nFor the state-of-the-art Socket AM5 platform, can support PCIe 5.0 on select motherboards\nCooler not included",
+    "imagen": "https://c1.neweggimages.com/productimage/nb640/19-113-877-01.png",
+    "url": "https://www.newegg.com/amd-ryzen-7-9000-series-ryzen-7-9800x3d-granite-ridge-zen-5-socket-am5-desktop-cpu-processor/p/N82E16819113877"
+},
+{
+    "titulo": "Team Group 16GB (2 x 8GB) 288-Pin PC RAM DDR5 6000 (PC5 48000) Memory Model FF3D516G6000HC38ADC01",
+    "precio": "$249.99",
+    "descripcion": "DDR5 6000 (PC5 48000)\nTiming 38-38-38-78\nCAS Latency CL38\nVoltage 1.25V\nNot compatible with Intel 13th Gen and up MB",
+    "imagen": "https://c1.neweggimages.com/productimage/nb640/20-985-307-01.jpg",
+    "url": "https://www.newegg.com/team-group-16gb-ddr5-6000-cas-latency-cl38-memory-black/p/N82E16820985307"
+},
+{
+    "titulo": "CORSAIR Vengeance RGB 32GB (2 x 16GB) 288-Pin PC RAM DDR5 6400 (PC5 51200) Desktop Memory Model CMH32GX5M2N6400C36",
+    "precio": "$399.99",
+    "descripcion": "DDR5 6400 (PC5 51200)\nTiming 36-48-48-104\nCAS Latency 36\nVoltage 1.40V\nHigh-Speed Gaming RGB Memory\nNewegg Exclusive",
+    "imagen": "https://c1.neweggimages.com/productimage/nb640/20-236-879-03.jpg",
+    "url": "https://www.newegg.com/corsair-vengeance-rgb-32gb-ddr5-6400-cas-latency-cl36-desktop-memory-black/p/N82E16820982185"
+},
+{
+    "titulo": "CORSAIR Vengeance 32GB (2 x 16GB) 288-Pin PC RAM DDR5 6000 (PC5 48000) Desktop Memory Model CMK32GX5M2B6000C38",
+    "precio": "$399.99",
+    "descripcion": "DDR5 6000 (PC5 48000)\nTiming 38-34-34-96\nCAS Latency 38\nVoltage 1.35V\nHigh-Speed Gaming Memory",
+    "imagen": "https://c1.neweggimages.com/productimage/nb640/20-236-828-V01.jpg",
+    "url": "https://www.newegg.com/corsair-vengeance-32gb-ddr5-6000-cas-latency-cl38-desktop-memory-black/p/N82E16820982129"
+},
+{
+    "titulo": "CORSAIR Vengeance RGB 32GB (2 x 16GB) 288-Pin PC RAM DDR5 6000 (PC5 48000) Desktop Memory Model CMH32GX5M2B6000C38",
+    "precio": "$409.99",
+    "descripcion": "DDR5 6000 (PC5 48000)\nTiming 38-34-34-96\nCAS Latency 38\nVoltage 1.35V\nHigh-Speed Gaming RGB Memory",
+    "imagen": "https://c1.neweggimages.com/productimage/nb640/20-236-879-03.jpg",
+    "url": "https://www.newegg.com/corsair-vengeance-rgb-32gb-ddr5-6000-cas-latency-cl38-desktop-memory-black/p/N82E16820982128"
+},
+{
+    "titulo": "Team T-FORCE VULCAN Z 32GB (2 x 16GB) 288-Pin PC RAM DDR4 3200 (PC4 25600) Desktop Memory Model TLZGD432G3200HC16FDC01",
+    "precio": "$249.99",
+    "descripcion": "DDR4 3200 (PC4 25600)\nTiming 16-20-20-40\nCAS Latency CL16\nVoltage 1.35V",
+    "imagen": "https://c1.neweggimages.com/productimage/nb640/20-331-618-02.jpg",
+    "url": "https://www.newegg.com/team-group-t-force-vulcan-z-32gb-ddr4-3200-cas-latency-cl16-desktop-memory-gray/p/N82E16820331618"
+}
+]
